@@ -1,1 +1,2 @@
 Edycja pierwsza
+Edycja druga
